@@ -1,0 +1,22 @@
+title: <p align="center">   </p>
+
+logo: "/images/profilepic.jpg?raw=true"
+
+description:
+  <h1 align="center"><a href="https://phuongdtrn.github.io/"> Phuong Tran</a></h1>
+  <p align="center">
+  <a href="https://drive.google.com/file/d/1yvoW0XhOsEPVpnommU1fLMMYzPPmP5Bk/view?usp=sharing">Resume</a> |
+  <a href="https://www.linkedin.com/in/phuongtran0129/">LinkedIn</a> |
+  <a href="https://github.com/phuongdtrn">GitHub</a>
+  </p>
+  
+  
+  <p align="left">
+   Hi! I'm an analytics professional who has a strong passion for delivering business insights and creating product innovation through the power of data. <br> 
+   
+   Currently, I'm a candidate for the Master of Science in Business Analytics at the University of Minnesota, Carlson School of Management.
+  <br><br>
+  </p>
+
+theme: jekyll-theme-minimal
+future: true
