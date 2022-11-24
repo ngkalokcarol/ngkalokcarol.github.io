@@ -1,5 +1,6 @@
 # Carol Ng
-*An Aspiring Data Scientist*
+*Loves all things Data. Let's talk about Data Science.*
+*"“If you can't measure it, you can't manage it."*
 
 # Education
 * Masters of Science (Business Analytics), *University of Minnesota*, 2021-2022
