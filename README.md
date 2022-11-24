@@ -1,9 +1,10 @@
-# John Doe
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+# Carol Ng
+*An Aspiring Data Scientist*
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Masters of Science (Business Analytics), *University of Minnesota*, 2021-2022
+* Bachelors of Arts (Business Enterprise), *University of Birmingham*, 2017-2018
+* Bachelors of Science (Computer Science), *Hong Kong Baptist University*, 2010-2012
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 
