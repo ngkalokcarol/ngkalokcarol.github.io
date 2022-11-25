@@ -4,9 +4,9 @@ Loves all things Data. Let's talk about Data Science.
 *“If you can't measure it, you can't manage it."*
 <br>
 # Education
-* Masters of Science (Business Analytics), *University of Minnesota*, 2021-2022
-* Bachelors of Arts (Business Enterprise), *University of Birmingham*, 2017-2018
-* Bachelors of Science (Computer Science), *Hong Kong Baptist University*, 2010-2012
+* Masters of Science (Business Analytics), *University of Minnesota*
+* Bachelors of Arts (Business Enterprise), *University of Birmingham*
+* Bachelors of Science (Computer Science), *Hong Kong Baptist University (Incomplete, Attended 2 of 3 years)*
 <br>
 
 # Data Science Projects
