@@ -63,3 +63,11 @@ This project makes use of ***sentiment analysis*** of cryptocurrency coupled wit
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
 * **Input:** Cryptocurrency historical price
 * **Output:** Trading signals triggers buying and selling
+
+
+## [Cost Aware A/B Testing](https://github.com/ngkalokcarol/Cost-Aware_A-B-Testing)
+
+This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
+* **Python libraries used:** Streamlit, python-binance, cctx, talib
+* **Input:** Cryptocurrency historical price
+* **Output:** Trading signals triggers buying and selling
