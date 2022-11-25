@@ -24,3 +24,11 @@ This project makes use of ***sentiment analysis*** of cryptocurrency coupled wit
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
 * **Input:** Cryptocurrency historical price
 * **Output:** Trading signals triggers buying and selling
+
+
+## [Dogs or Cats Image Classification](https://github.com/ngkalokcarol/Dogs_or_Cats_image_classification)
+
+This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
+* **Python libraries used:** Streamlit, python-binance, cctx, talib
+* **Input:** Cryptocurrency historical price
+* **Output:** Trading signals triggers buying and selling
