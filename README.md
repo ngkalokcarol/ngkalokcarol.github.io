@@ -17,7 +17,7 @@ This project integrates various news source for performing sentiment analysis pe
 * **Python libraries used:** Streamlit, Huggingface, TensorFlow
 * **Input:** Tweets, News
 * **Output:** Sentiment of Cryptocurrency
-* 
+
 ## [NLP_imdb_review_classification](https://github.com/ngkalokcarol/NLP_imdb_review_classification)
 
 This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
