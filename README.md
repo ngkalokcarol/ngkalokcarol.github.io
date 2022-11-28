@@ -13,6 +13,10 @@ Loves all things Data. Let's talk about Data Science.
 
 ## Machine Learning
 
+#### [ Spam Emails detection](https://github.com/ngkalokcarol/spam_email_detection)
+
+A classification model to predict and classify emails that are potentially spam
+
 #### [ Dogs or Cats Image Classification](https://github.com/ngkalokcarol/Dogs_or_Cats_image_classification)
 
 Image classification exercise on Kaggle. Used CNN and Transfer Learning to train the model and classify 25k images of cats and dogs.
@@ -24,10 +28,6 @@ This project predicts a numeric output - Customer Transaction. We tested mutiple
 #### [ Marketing Campaign Optimization](https://github.com/ngkalokcarol/Marketing_Campaign_optimization)
 
 exploratory data analysis and develop a classification model for optimizing sales call activity.
-
-#### [ Spam email detection](https://github.com/ngkalokcarol/spam_email_detection)
-
-A classification model to predict and classify emails that are potentially spam
 
 #### [ Shallow or Deep Neural Network](https://github.com/ngkalokcarol/Shallow_VS_Deep_NeuralNetwork)
 
