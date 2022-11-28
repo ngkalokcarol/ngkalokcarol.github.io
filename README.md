@@ -25,24 +25,11 @@ Supervised Machine Learning with dataset labelled as 'Yes' and 'No' regarding wh
 
 <i> Tools: pandas, numpy, matplotlib, seaborn, sklearn, xgboost</i>
 
-#### [ Dogs or Cats Image Classification](https://github.com/ngkalokcarol/Dogs_or_Cats_image_classification)
-
-Image classification exercise on Kaggle. Used CNN and Transfer Learning to train the model and classify 25k images of cats and dogs.
-
 #### [ Santander Customer Transaction Prediction](https://github.com/ngkalokcarol/santander_customer_transaction_prediction)
 
-This project predicts a numeric output - Customer Transaction. We tested mutiple models and evaulated why LightGBM is chosen. 
+Supervised Machine Learning with dataset labelled as Customers Made Transaction (Class 1) and Customers Did Not Make Transaction (Class 0) in the bank. We dealt with class highly imbalance issue, feature engineering (Data UpSampling and Stratified K Fold) and compared various models - Logistic Regression, Random Forest, XGBoost and LightGBM and evaulated why LightGBM is chosen. 
 
-#### [ Shallow or Deep Neural Network](https://github.com/ngkalokcarol/Shallow_VS_Deep_NeuralNetwork)
-
-Train 3 versions of Neural Network, with different numbers of hidden layer (NN with 1 hidden layer, 2 hidden layers and 3 hidden layers), using Mean squared error as objective function and error measurement.
-
-#### [ Cost Aware A/B Testing](https://github.com/ngkalokcarol/Cost-Aware_A-B-Testing)
-
-Formulate the above problem into a specific reinforcement learning problem. Clearly define and articulate the agent, environment, actions, rewards, and the agent's objective, etc. Create a simulation environment for this problem. This means manually picking some values for the treatment effects, number of subjects, and how the realized treatment effect for each subject should be generated
-
-Tools: scikit-learn, Numpy, Pandas, Seaborn, Matplotlib
-
+<i> Tools: pandas, numpy, matplotlib, sklearn, xgboost, tensorflow, lightgbm, spicy, skopt, bayes_opt</i>
 
 ## Natural Language Processing
 
@@ -62,3 +49,21 @@ Tools: tensorflow, Pandas, Numpy, transformers, BERT, BertTokenizer
 
 Tools: tensorflow, Pandas, Numpy, transformers, BERT, BertTokenizer
 
+## Deep Learning or Neural Network
+
+#### [ Dogs or Cats Image Classification](https://github.com/ngkalokcarol/Dogs_or_Cats_image_classification)
+
+Image classification exercise on Kaggle. Used CNN and Transfer Learning to train the model and classify 25k images of cats and dogs.
+
+
+#### [ Shallow or Deep Neural Network](https://github.com/ngkalokcarol/Shallow_VS_Deep_NeuralNetwork)
+
+Train 3 versions of Neural Network, with different numbers of hidden layer (NN with 1 hidden layer, 2 hidden layers and 3 hidden layers), using Mean squared error as objective function and error measurement.
+
+## Reinforcement Learning
+
+#### [ Cost Aware A/B Testing](https://github.com/ngkalokcarol/Cost-Aware_A-B-Testing)
+
+Formulated an A/B Testing Experiment into specific Reinforcement Learning problem and compared different strategies performance. 
+
+<i> Tools: Numpy, Pandas, Matplotlib, Greedy Approach with optimistic initialization, Epsilon-Greedy strategy, Upper-Confidence-Bound (UCB) Strategy </i>
