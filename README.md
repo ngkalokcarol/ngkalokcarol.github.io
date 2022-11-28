@@ -45,12 +45,11 @@ Analyzed the IMDB Reviews Dataset with 50k movie reviews in text format, used tr
 
 Our project seeks to showcase the ease of ingesting big data into AWS S3, creating materialized views and exploring data quickly using AWS RedShift, visualizing meaningful dashboards to drive business insights through AWS QuickSight, and automatically sharing reports with teammates via AWS Lambda and AWS SES - Simple Email Service. Combined, our project shows a full data analytics pipeline capable of managing very large amounts of data with exceptional performance at a fraction of the cost of alternative tools. Our project would be suitable for any oraganization that needs to analyze and visualize large amounts of structured and unstructured data quickly.
 
+<i> Tools: AWS S3, Redshift, QuickSight, Lambda, SES </i>
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/50436546/167037001-8a695d04-699c-40de-9fff-1a26b1d93f9d.gif)
 
 <img width="870" alt="image" src="https://user-images.githubusercontent.com/50436546/204318004-b445bd8b-2d43-4d04-8fe6-d129294d82d1.png">
-
-<i> Tools: AWS S3, Redshift, QuickSight, Lambda, SES </i>
 
 ## Deep Learning or Neural Network
 
