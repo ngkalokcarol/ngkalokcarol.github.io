@@ -47,18 +47,21 @@ Tools: tensorflow, Pandas, Numpy, transformers, BERT, BertTokenizer
 
 <img width="870" alt="image" src="https://user-images.githubusercontent.com/50436546/204318004-b445bd8b-2d43-4d04-8fe6-d129294d82d1.png">
 
-Tools: tensorflow, Pandas, Numpy, transformers, BERT, BertTokenizer
+<i> Tools: tensorflow, Pandas, Numpy, transformers, BERT, BertTokenizer </i>
 
 ## Deep Learning or Neural Network
 
 #### [ Dogs or Cats Image Classification](https://github.com/ngkalokcarol/Dogs_or_Cats_image_classification)
 
-Image classification exercise on Kaggle. Used CNN and Transfer Learning to train the model and classify 25k images of cats and dogs.
+Image Classification exercise on Kaggle. Used CNN and Transfer Learning to train the model and classify 25k images of cats and dogs.
 
+<i> Tools: Numpy, Pandas, matplotlib, seaborn, sklearn, tensorflow, keras </i>
 
 #### [ Shallow or Deep Neural Network](https://github.com/ngkalokcarol/Shallow_VS_Deep_NeuralNetwork)
 
-Train 3 versions of Neural Network, with different numbers of hidden layer (NN with 1 hidden layer, 2 hidden layers and 3 hidden layers), using Mean squared error as objective function and error measurement.
+Train 3 versions of Neural Network, with different numbers of hidden layer (NN with 1 hidden layer, 2 hidden layers and 3 hidden layers), using Mean squared error as objective function and error measurement as evaulation metrics to compare the model with 1, 2 or 3 hidden layers. 
+
+<i> Tools: Numpy, Pandas, math, tensorflow, keras </i>
 
 ## Reinforcement Learning
 
