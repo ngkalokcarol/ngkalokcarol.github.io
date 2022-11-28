@@ -15,11 +15,15 @@ Loves all things Data. Let's talk about Data Science.
 
 #### [ Spam Emails detection](https://github.com/ngkalokcarol/spam_email_detection)
 
-A classification model to predict and classify emails that are potentially spam
+Supervised Machine Learning with dataset labelled as Spam (Class 1) and Non-Spam (Class 0). Built a classification model to predict and classify emails that are potentially Spam.  
+
+<i> Tools: pandas, numpy, matplotlib, sklearn, xgboost</i>
 
 #### [ Marketing Campaign Optimization](https://github.com/ngkalokcarol/Marketing_Campaign_optimization)
 
-Exploratory data analysis and develop a classification model for optimizing sales call activity.
+Supervised Machine Learning with dataset labelled as 'Yes' and 'No' regarding whether customers bought a Term Deposit after the Direct Marketing Call. In this project Exploratory Data Analysis is conducted to identify the patterns and a classification model is built to optimize sales call activity to develop future strategies with the goal to achieve a greater effectivenesss of future marketing calls. 
+
+<i> Tools: pandas, numpy, matplotlib, seaborn, sklearn, xgboost</i>
 
 #### [ Dogs or Cats Image Classification](https://github.com/ngkalokcarol/Dogs_or_Cats_image_classification)
 
