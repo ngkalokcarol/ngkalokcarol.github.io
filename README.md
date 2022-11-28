@@ -17,6 +17,10 @@ Loves all things Data. Let's talk about Data Science.
 
 A classification model to predict and classify emails that are potentially spam
 
+#### [ Marketing Campaign Optimization](https://github.com/ngkalokcarol/Marketing_Campaign_optimization)
+
+Exploratory data analysis and develop a classification model for optimizing sales call activity.
+
 #### [ Dogs or Cats Image Classification](https://github.com/ngkalokcarol/Dogs_or_Cats_image_classification)
 
 Image classification exercise on Kaggle. Used CNN and Transfer Learning to train the model and classify 25k images of cats and dogs.
@@ -24,10 +28,6 @@ Image classification exercise on Kaggle. Used CNN and Transfer Learning to train
 #### [ Santander Customer Transaction Prediction](https://github.com/ngkalokcarol/santander_customer_transaction_prediction)
 
 This project predicts a numeric output - Customer Transaction. We tested mutiple models and evaulated why LightGBM is chosen. 
-
-#### [ Marketing Campaign Optimization](https://github.com/ngkalokcarol/Marketing_Campaign_optimization)
-
-exploratory data analysis and develop a classification model for optimizing sales call activity.
 
 #### [ Shallow or Deep Neural Network](https://github.com/ngkalokcarol/Shallow_VS_Deep_NeuralNetwork)
 
