@@ -11,63 +11,49 @@ Loves all things Data. Let's talk about Data Science.
 
 # Data Science Projects
 
-## [Spam email detection](https://github.com/ngkalokcarol/spam_email_detection)
+## Machine Learning
 
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+#### [Dogs or Cats Image Classification](https://github.com/ngkalokcarol/Dogs_or_Cats_image_classification)
 
-## [NLP_imdb_review_classification](https://github.com/ngkalokcarol/NLP_imdb_review_classification)
+Image classification exercise on Kaggle. Used CNN and Transfer Learning to train the model and classify 25k images of cats and dogs.
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+#### [Santander Customer Transaction Prediction](https://github.com/ngkalokcarol/santander_customer_transaction_prediction)
 
+This project predicts a numeric output - Customer Transaction. We tested mutiple models and evaulated why LightGBM is chosen. 
 
-## [Dogs or Cats Image Classification](https://github.com/ngkalokcarol/Dogs_or_Cats_image_classification)
+#### [Marketing Campaign Optimization](https://github.com/ngkalokcarol/Marketing_Campaign_optimization)
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+exploratory data analysis and develop a classification model for optimizing sales call activity.
 
+#### [Spam email detection](https://github.com/ngkalokcarol/spam_email_detection)
 
-## [Marketing Campaign Optimization](https://github.com/ngkalokcarol/Marketing_Campaign_optimization)
+A classification model to predict and classify emails that are potentially spam
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+#### [Shallow or Deep Neural Network](https://github.com/ngkalokcarol/Shallow_VS_Deep_NeuralNetwork)
 
+Train 3 versions of Neural Network, with different numbers of hidden layer (NN with 1 hidden layer, 2 hidden layers and 3 hidden layers), using Mean squared error as objective function and error measurement.
 
-## [AWS S3, Redshift, Quicksight, Lambda Dashboard - Iowa Liquor Sales](https://github.com/ngkalokcarol/AWS_S3_Redshift_Lambda_Quicksight_Dashboard_IowaLiquorSales)
+#### [Cost Aware A/B Testing](https://github.com/ngkalokcarol/Cost-Aware_A-B-Testing)
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+Formulate the above problem into a specific reinforcement learning problem. Clearly define and articulate the agent, environment, actions, rewards, and the agent's objective, etc. Create a simulation environment for this problem. This means manually picking some values for the treatment effects, number of subjects, and how the realized treatment effect for each subject should be generated
 
-## [Santander Customer Transaction Prediction](https://github.com/ngkalokcarol/santander_customer_transaction_prediction)
+#### Tools: scikit-learn, Numpy, Pandas, Seaborn, Matplotlib
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+## Natural Language Processing
 
+#### [NLP_imdb_review_classification](https://github.com/ngkalokcarol/NLP_imdb_review_classification)
 
-## [Shallow or Deep Neural Network](https://github.com/ngkalokcarol/Shallow_VS_Deep_NeuralNetwork)
+For the project I used the IMDB review data and performed BERT classifier and text transformer to train a sentiment analysis model.
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+#### Tools: tensorflow, Pandas, Numpy, transformers, BERT, BertTokenizer
 
+## Big Data Architecture, Data Analysis and Visualisation
 
-## [Cost Aware A/B Testing](https://github.com/ngkalokcarol/Cost-Aware_A-B-Testing)
+#### [AWS S3, Redshift, Quicksight, Lambda Dashboard - Iowa Liquor Sales](https://github.com/ngkalokcarol/AWS_S3_Redshift_Lambda_Quicksight_Dashboard_IowaLiquorSales)
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+![image](https://user-images.githubusercontent.com/50436546/204317148-40f8991e-dc5f-47e1-b208-975558c29323.png)
+
+<img width="870" alt="image" src="https://user-images.githubusercontent.com/50436546/204318004-b445bd8b-2d43-4d04-8fe6-d129294d82d1.png">
+
+Tools: tensorflow, Pandas, Numpy, transformers, BERT, BertTokenizer
+
