@@ -21,13 +21,13 @@ Supervised Machine Learning with dataset labelled as Spam (Class 1) and Non-Spam
 
 #### [ Marketing Campaign Optimization](https://github.com/ngkalokcarol/Marketing_Campaign_optimization)
 
-Supervised Machine Learning with dataset labelled as 'Yes' and 'No' regarding whether customers bought a Term Deposit after the Direct Marketing Call. In this project Exploratory Data Analysis is conducted to identify the patterns and a classification model is built to optimize sales call activity to develop future strategies with the goal to achieve a greater effectivenesss of future marketing calls. 
+Supervised Machine Learning with dataset labelled as 'Yes' and 'No' regarding whether customers bought a Term Deposit after the Direct Marketing Call. Conducted EDA to identify patterns and built a classification model to optimize sales call activity to develop future strategies with the goal to achieve a greater effectivenesss of future marketing calls. 
 
 <i> Tools: pandas, numpy, matplotlib, seaborn, sklearn, xgboost</i>
 
 #### [ Santander Customer Transaction Prediction](https://github.com/ngkalokcarol/santander_customer_transaction_prediction)
 
-Supervised Machine Learning with dataset labelled as Customers Made Transaction (Class 1) and Customers Did Not Make Transaction (Class 0) in the bank. We dealt with class highly imbalance issue, feature engineering (Data UpSampling and Stratified K Fold) and compared various models - Logistic Regression, Random Forest, XGBoost and LightGBM and evaulated why LightGBM is chosen. 
+Supervised Machine Learning with dataset labelled as Customers Made Transaction (Class 1) and Customers Did Not Make Transaction (Class 0) in the bank. We dealt with class highly imbalance issue, feature engineering (Data UpSampling and Stratified K Fold) and compared various models and evaulated why LightGBM is chosen. 
 
 <i> Tools: pandas, numpy, matplotlib, sklearn, xgboost, tensorflow, lightgbm, spicy, skopt, bayes_opt</i>
 
@@ -43,7 +43,7 @@ Analyzed the IMDB Reviews Dataset with 50k movie reviews in text format, used tr
 
 #### [ AWS S3, Redshift, Quicksight, Lambda Dashboard - Iowa Liquor Sales](https://github.com/ngkalokcarol/AWS_S3_Redshift_Lambda_Quicksight_Dashboard_IowaLiquorSales)
 
-Our project seeks to showcase the ease of ingesting big data into AWS S3, creating materialized views and exploring data quickly using AWS RedShift, visualizing meaningful dashboards to drive business insights through AWS QuickSight, and automatically sharing reports with teammates via AWS Lambda and AWS SES - Simple Email Service. Combined, our project shows a full data analytics pipeline capable of managing very large amounts of data with exceptional performance at a fraction of the cost of alternative tools. Our project would be suitable for any oraganization that needs to analyze and visualize large amounts of structured and unstructured data quickly.
+Our project seeks to showcase the ease of ingesting big data into S3, creating materialized views and exploring data quickly using RedShift, visualizing meaningful dashboards to drive business insights through QuickSight, and automatically sharing reports with teammates via Lambda and SES (Simple Email Service).
 
 <i> Tools: AWS S3, Redshift, QuickSight, Lambda, SES </i>
 
