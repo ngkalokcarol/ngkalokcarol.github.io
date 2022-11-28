@@ -51,7 +51,7 @@ For the project I used the IMDB review data and performed BERT classifier and te
 
 #### [AWS S3, Redshift, Quicksight, Lambda Dashboard - Iowa Liquor Sales](https://github.com/ngkalokcarol/AWS_S3_Redshift_Lambda_Quicksight_Dashboard_IowaLiquorSales)
 
-![image](https://user-images.githubusercontent.com/50436546/204317148-40f8991e-dc5f-47e1-b208-975558c29323.png)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/50436546/167037001-8a695d04-699c-40de-9fff-1a26b1d93f9d.gif)
 
 <img width="870" alt="image" src="https://user-images.githubusercontent.com/50436546/204318004-b445bd8b-2d43-4d04-8fe6-d129294d82d1.png">
 
