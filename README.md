@@ -33,11 +33,11 @@ Supervised Machine Learning with dataset labelled as Customers Made Transaction 
 
 ## Natural Language Processing
 
-#### [ NLP_imdb_review_classification](https://github.com/ngkalokcarol/NLP_imdb_review_classification)
+#### [ NLP IMDB review classification](https://github.com/ngkalokcarol/NLP-IMDB-review-classification)
 
-For the project I used the IMDB review data and performed BERT classifier and text transformer to train a sentiment analysis model.
+Analyzed the IMDB Reviews Dataset with 50k movie reviews in text format, used transformer for text preprocessing, BERT as Classifier and Tokenizer along with the input modules to classify the sentiment of the review (Positive or Negative). 
 
-Tools: tensorflow, Pandas, Numpy, transformers, BERT, BertTokenizer
+<i> Tools: transformers, tensorflow, pandas, shutil </i>
 
 ## Big Data Architecture, Data Analysis and Visualisation
 
