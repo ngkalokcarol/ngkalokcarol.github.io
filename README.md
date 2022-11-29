@@ -34,7 +34,9 @@ Supervised Machine Learning with dataset labelled as Customers Made Transaction 
 
 <i> Tools: pandas, numpy, matplotlib, sklearn, xgboost, tensorflow, lightgbm, spicy, skopt, bayes_opt</i>
 
-<img width="450" alt="image" src="https://user-images.githubusercontent.com/50436546/204427425-5aec3376-fe81-426d-987b-8caf48cb0496.png">
+<img width="526" alt="image" src="https://user-images.githubusercontent.com/50436546/204638203-ef156d7f-1e07-4442-bf26-82cb3803389d.png">
+<img width="526" alt="image" src="https://user-images.githubusercontent.com/50436546/204638153-9803c96a-39ac-49a0-a20e-bf7282710693.png">
+
 
 
 #### [ Logistic Regression for Image classification - Predict Digits](https://github.com/ngkalokcarol/Image-Classification-Predict-Digits)
