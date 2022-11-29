@@ -19,9 +19,6 @@ Supervised Machine Learning with dataset labelled as Spam (Class 1) and Non-Spam
 
 <i> Tools: pandas, numpy, matplotlib, sklearn, xgboost</i>
 
-<img width="299" alt="image" src="https://user-images.githubusercontent.com/50436546/204426419-87b5f4fe-c8db-46de-bb9e-05b1a6056567.png"><img width="299" alt="image" src="https://user-images.githubusercontent.com/50436546/204426290-40d78250-a83b-47da-b2fc-3fa5c30bbe62.png"> 
-
-
 #### [ Marketing Campaign Optimization](https://github.com/ngkalokcarol/Marketing_Campaign_optimization)
 
 Supervised Machine Learning with dataset labelled as 'Yes' and 'No' regarding whether customers bought a Term Deposit after the Direct Marketing Call. Conducted EDA to identify patterns and built a classification model to optimize sales call activity to develop future strategies with the goal to achieve a greater effectivenesss of future marketing calls. 
