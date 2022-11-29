@@ -49,7 +49,7 @@ Our project seeks to showcase the ease of ingesting big data into S3, creating m
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/50436546/167037001-8a695d04-699c-40de-9fff-1a26b1d93f9d.gif)
 
-<img width="870" alt="image" src="https://user-images.githubusercontent.com/50436546/204318004-b445bd8b-2d43-4d04-8fe6-d129294d82d1.png">
+<img width="1291" alt="image" src="https://user-images.githubusercontent.com/50436546/204410850-5544bf8b-46a2-4286-b87e-c3a0369e127b.png">
 
 ## Deep Learning or Neural Network
 
