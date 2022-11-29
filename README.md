@@ -90,6 +90,9 @@ Train 3 versions of Neural Network, with different numbers of hidden layer (NN w
 
 <i> Tools: Numpy, Pandas, math, tensorflow, keras </i>
 
+<img width="401" alt="image" src="https://user-images.githubusercontent.com/50436546/204427699-0b33bf0a-35e0-4926-95a4-3bbfeba174ec.png">
+
+
 ## Reinforcement Learning
 
 #### [ Cost Aware A/B Testing](https://github.com/ngkalokcarol/Cost-Aware_A-B-Testing)
