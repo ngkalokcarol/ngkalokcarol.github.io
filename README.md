@@ -25,8 +25,7 @@ Supervised Machine Learning with dataset labelled as 'Yes' and 'No' regarding wh
 
 <i> Tools: pandas, numpy, matplotlib, seaborn, sklearn, xgboost</i>
 
-<img width="430" alt="image" src="https://user-images.githubusercontent.com/50436546/204632743-97d9022c-ec18-44e4-8516-9aec2187c914.png">
-
+<img width="430" alt="image" src="https://user-images.githubusercontent.com/50436546/204642487-e4a40195-df90-4b8a-9d46-1e72daeb3b03.png">
 
 #### [ Santander Customer Transaction Prediction](https://github.com/ngkalokcarol/santander_customer_transaction_prediction)
 
@@ -45,7 +44,6 @@ Predict the Digits in Images Using a Logistic Regression Classifier in Python. U
 <i> Tools: numpy, matplotlib, seaborn, sklearn </i>
 
 <img width="363" alt="image" src="https://user-images.githubusercontent.com/50436546/204613095-e5026c54-42b9-4c9b-8214-cc809264eedb.png">
-
 
 ## Natural Language Processing
 
