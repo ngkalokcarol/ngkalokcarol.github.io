@@ -33,8 +33,8 @@ Supervised Machine Learning with dataset labelled as Customers Made Transaction 
 
 <i> Tools: pandas, numpy, matplotlib, sklearn, xgboost, tensorflow, lightgbm, spicy, skopt, bayes_opt</i>
 
-<img width="433" alt="image" src="https://user-images.githubusercontent.com/50436546/204639652-41c8496d-d006-42b3-bd91-1596cd512c4a.png">
-<img width="433" alt="image" src="https://user-images.githubusercontent.com/50436546/204638153-9803c96a-39ac-49a0-a20e-bf7282710693.png">
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/50436546/204639652-41c8496d-d006-42b3-bd91-1596cd512c4a.png">
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/50436546/204638153-9803c96a-39ac-49a0-a20e-bf7282710693.png">
 
 
 #### [ Logistic Regression for Image classification - Predict Digits](https://github.com/ngkalokcarol/Image-Classification-Predict-Digits)
@@ -43,7 +43,8 @@ Predict the Digits in Images Using a Logistic Regression Classifier in Python. U
 
 <i> Tools: numpy, matplotlib, seaborn, sklearn </i>
 
-<img width="363" alt="image" src="https://user-images.githubusercontent.com/50436546/204613095-e5026c54-42b9-4c9b-8214-cc809264eedb.png">
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/50436546/204643258-f006fbfb-e6cd-4fc9-b6d0-b5eded591d36.png">
+
 
 ## Natural Language Processing
 
@@ -53,9 +54,9 @@ Analyzed the IMDB Reviews Dataset with 50k movie reviews in text format, used tr
 
 <i> Tools: transformers, tensorflow, pandas, shutil </i>
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/50436546/204426125-7ad38519-b360-4dc2-b79a-1f48cad65eee.png">
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/50436546/204426125-7ad38519-b360-4dc2-b79a-1f48cad65eee.png">
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/50436546/204429736-0734bc99-79ec-43ce-8114-51a5bf46b584.png">
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/50436546/204429736-0734bc99-79ec-43ce-8114-51a5bf46b584.png">
 
 
 ## Big Data Architecture, Data Analysis and Visualisation
@@ -66,9 +67,9 @@ Our project seeks to showcase the ease of ingesting big data into S3, creating m
 
 <i> Tools: AWS S3, Redshift, QuickSight, Lambda, SES </i>
 
-<img width="520" alt="image" src="https://user-images.githubusercontent.com/50436546/204411694-56d48f6b-912b-419f-8a30-cc3c64872968.png">
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/50436546/204411694-56d48f6b-912b-419f-8a30-cc3c64872968.png">
 
-<img width="520" alt="image" src="https://user-images.githubusercontent.com/50436546/167037001-8a695d04-699c-40de-9fff-1a26b1d93f9d.gif">
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/50436546/167037001-8a695d04-699c-40de-9fff-1a26b1d93f9d.gif">
 
 ## Deep Learning or Neural Network
 
@@ -78,7 +79,7 @@ Image Classification exercise on Kaggle. Used CNN and Transfer Learning to train
 
 <i> Tools: Numpy, Pandas, matplotlib, seaborn, sklearn, tensorflow, keras </i>
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/50436546/204427559-5811c464-d345-455e-be99-a9b5a354425c.png">
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/50436546/204427559-5811c464-d345-455e-be99-a9b5a354425c.png">
 
 
 #### [ Shallow or Deep Neural Network](https://github.com/ngkalokcarol/Shallow_VS_Deep_NeuralNetwork)
