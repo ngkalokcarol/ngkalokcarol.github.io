@@ -15,9 +15,12 @@ Loves all things Data. Let's talk about Data Science.
 
 #### [ Spam Emails detection](https://github.com/ngkalokcarol/spam_email_detection)
 
-Supervised Machine Learning with dataset labelled as Spam (Class 1) and Non-Spam (Class 0). Built a classification model to predict and classify emails that are potentially Spam.  
+Supervised Machine Learning with dataset labelled as Spam (Class 1) and Non-Spam (Class 0). Built a classification model to predict and classify emails that are potentially Spam. Best Model achieved a <b> 95% of Presicion and Accuracy</b>. 
 
 <i> Tools: pandas, numpy, matplotlib, sklearn, xgboost</i>
+
+<img width="318" alt="image" src="https://user-images.githubusercontent.com/50436546/204426290-40d78250-a83b-47da-b2fc-3fa5c30bbe62.png"> <img width="408" alt="image" src="https://user-images.githubusercontent.com/50436546/204426419-87b5f4fe-c8db-46de-bb9e-05b1a6056567.png">
+
 
 #### [ Marketing Campaign Optimization](https://github.com/ngkalokcarol/Marketing_Campaign_optimization)
 
@@ -25,11 +28,22 @@ Supervised Machine Learning with dataset labelled as 'Yes' and 'No' regarding wh
 
 <i> Tools: pandas, numpy, matplotlib, seaborn, sklearn, xgboost</i>
 
+
+
+<img width="620" alt="image" src="https://user-images.githubusercontent.com/50436546/204427074-7f02341e-ba44-4640-a143-97f2b2af25ae.png">
+
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/50436546/204426941-ceb343eb-24fe-4f0b-8e96-5d2370676319.png"> <img width="300" alt="image" src="https://user-images.githubusercontent.com/50436546/204427264-4ce6477e-d33e-4a6b-9f18-fedbc39565e5.png">
+
+
+
 #### [ Santander Customer Transaction Prediction](https://github.com/ngkalokcarol/santander_customer_transaction_prediction)
 
 Supervised Machine Learning with dataset labelled as Customers Made Transaction (Class 1) and Customers Did Not Make Transaction (Class 0) in the bank. We dealt with class highly imbalance issue, feature engineering (Data UpSampling and Stratified K Fold) and compared various models and evaulated why LightGBM is chosen. 
 
 <i> Tools: pandas, numpy, matplotlib, sklearn, xgboost, tensorflow, lightgbm, spicy, skopt, bayes_opt</i>
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/50436546/204427399-53217fa2-cf1b-4ed5-838b-8f77e378c4a8.png">
+<img width="550" alt="image" src="https://user-images.githubusercontent.com/50436546/204427425-5aec3376-fe81-426d-987b-8caf48cb0496.png">
+
 
 ## Natural Language Processing
 
@@ -38,6 +52,13 @@ Supervised Machine Learning with dataset labelled as Customers Made Transaction 
 Analyzed the IMDB Reviews Dataset with 50k movie reviews in text format, used transformer for text preprocessing, BERT as Classifier and Tokenizer along with the input modules to classify the sentiment of the review (Positive or Negative). 
 
 <i> Tools: transformers, tensorflow, pandas, shutil </i>
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/50436546/204426125-7ad38519-b360-4dc2-b79a-1f48cad65eee.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/50436546/204426534-fcd7096f-30b2-41f4-85a3-4fce7e8bf4a6.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/50436546/204425857-ef517903-21bf-4c04-a1ae-0bce1f37c6f7.png">
+
 
 ## Big Data Architecture, Data Analysis and Visualisation
 
