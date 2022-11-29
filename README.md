@@ -33,7 +33,7 @@ Supervised Machine Learning with dataset labelled as Customers Made Transaction 
 
 ## Natural Language Processing
 
-#### [ NLP IMDB review classification](https://github.com/ngkalokcarol/NLP-IMDB-review-classification)
+#### [ IMDB Reviews Sentiment - Positive or Negative review?](https://github.com/ngkalokcarol/NLP-IMDB-review-classification)
 
 Analyzed the IMDB Reviews Dataset with 50k movie reviews in text format, used transformer for text preprocessing, BERT as Classifier and Tokenizer along with the input modules to classify the sentiment of the review (Positive or Negative). 
 
@@ -41,7 +41,7 @@ Analyzed the IMDB Reviews Dataset with 50k movie reviews in text format, used tr
 
 ## Big Data Architecture, Data Analysis and Visualisation
 
-#### [ AWS S3, Redshift, Quicksight, Lambda Dashboard - Iowa Liquor Sales](https://github.com/ngkalokcarol/AWS_S3_Redshift_Lambda_Quicksight_Dashboard_IowaLiquorSales)
+#### [ AWS S3, Redshift, Lambda, SES, Quicksight Dashboard - Iowa Liquor Sales](https://github.com/ngkalokcarol/AWS_S3_Redshift_Lambda_Quicksight_Dashboard_IowaLiquorSales)
 
 Our project seeks to showcase the ease of ingesting big data into S3, creating materialized views and exploring data quickly using RedShift, visualizing meaningful dashboards to drive business insights through QuickSight, and automatically sharing reports with teammates via Lambda and SES (Simple Email Service).
 
