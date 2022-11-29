@@ -47,9 +47,10 @@ Our project seeks to showcase the ease of ingesting big data into S3, creating m
 
 <i> Tools: AWS S3, Redshift, QuickSight, Lambda, SES </i>
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/50436546/167037001-8a695d04-699c-40de-9fff-1a26b1d93f9d.gif)
+<img width="1191" alt="image" src="https://user-images.githubusercontent.com/50436546/204410930-30a62a05-2788-4948-89c5-ee30bf609b31.png">
 
-<img width="1291" alt="image" src="https://user-images.githubusercontent.com/50436546/204410850-5544bf8b-46a2-4286-b87e-c3a0369e127b.png">
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/50436546/167037001-8a695d04-699c-40de-9fff-1a26b1d93f9d.gif)
 
 ## Deep Learning or Neural Network
 
