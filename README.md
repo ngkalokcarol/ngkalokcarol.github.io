@@ -19,7 +19,7 @@ Supervised Machine Learning with dataset labelled as Spam (Class 1) and Non-Spam
 
 <i> Tools: pandas, numpy, matplotlib, sklearn, xgboost</i>
 
-<img width="318" alt="image" src="https://user-images.githubusercontent.com/50436546/204426290-40d78250-a83b-47da-b2fc-3fa5c30bbe62.png"> <img width="408" alt="image" src="https://user-images.githubusercontent.com/50436546/204426419-87b5f4fe-c8db-46de-bb9e-05b1a6056567.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/50436546/204426419-87b5f4fe-c8db-46de-bb9e-05b1a6056567.png"><img width="300" alt="image" src="https://user-images.githubusercontent.com/50436546/204426290-40d78250-a83b-47da-b2fc-3fa5c30bbe62.png"> 
 
 
 #### [ Marketing Campaign Optimization](https://github.com/ngkalokcarol/Marketing_Campaign_optimization)
@@ -32,7 +32,7 @@ Supervised Machine Learning with dataset labelled as 'Yes' and 'No' regarding wh
 
 <img width="620" alt="image" src="https://user-images.githubusercontent.com/50436546/204427074-7f02341e-ba44-4640-a143-97f2b2af25ae.png">
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/50436546/204426941-ceb343eb-24fe-4f0b-8e96-5d2370676319.png"> <img width="300" alt="image" src="https://user-images.githubusercontent.com/50436546/204427264-4ce6477e-d33e-4a6b-9f18-fedbc39565e5.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/50436546/204427264-4ce6477e-d33e-4a6b-9f18-fedbc39565e5.png"><img width="300" alt="image" src="https://user-images.githubusercontent.com/50436546/204426941-ceb343eb-24fe-4f0b-8e96-5d2370676319.png">
 
 
 
@@ -53,9 +53,9 @@ Analyzed the IMDB Reviews Dataset with 50k movie reviews in text format, used tr
 
 <i> Tools: transformers, tensorflow, pandas, shutil </i>
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/50436546/204426125-7ad38519-b360-4dc2-b79a-1f48cad65eee.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/50436546/204426125-7ad38519-b360-4dc2-b79a-1f48cad65eee.png">
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/50436546/204426534-fcd7096f-30b2-41f4-85a3-4fce7e8bf4a6.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/50436546/204426534-fcd7096f-30b2-41f4-85a3-4fce7e8bf4a6.png">
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/50436546/204425857-ef517903-21bf-4c04-a1ae-0bce1f37c6f7.png">
 
