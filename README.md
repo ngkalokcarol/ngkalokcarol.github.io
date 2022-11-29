@@ -45,6 +45,15 @@ Supervised Machine Learning with dataset labelled as Customers Made Transaction 
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/50436546/204427425-5aec3376-fe81-426d-987b-8caf48cb0496.png">
 
 
+#### [ Logistic Regression for Image classification - Predict Digits](https://github.com/ngkalokcarol/Image-Classification-Predict-Digits)
+
+Predict the Digits in Images Using a Logistic Regression Classifier in Python. Using the digits dataset in the scikit learn library to predict digit values from images using the Logistic Regression model in Python.
+
+<i> Tools: numpy, matplotlib, seaborn, sklearn </i>
+
+<img width="363" alt="image" src="https://user-images.githubusercontent.com/50436546/204613095-e5026c54-42b9-4c9b-8214-cc809264eedb.png">
+
+
 ## Natural Language Processing
 
 #### [ IMDB Reviews Sentiment - Positive or Negative review?](https://github.com/ngkalokcarol/IMDB-Reviews-Sentiment)
