@@ -48,7 +48,7 @@ Supervised Machine Learning with dataset labelled as Customers Made Transaction 
 
 ## Natural Language Processing
 
-#### [ IMDB Reviews Sentiment - Positive or Negative review?](https://github.com/ngkalokcarol/NLP-IMDB-review-classification)
+#### [ IMDB Reviews Sentiment - Positive or Negative review?](https://github.com/ngkalokcarol/IMDB-Reviews-Sentiment)
 
 Analyzed the IMDB Reviews Dataset with 50k movie reviews in text format, used transformer for text preprocessing, BERT as Classifier and Tokenizer along with the input modules to classify the sentiment of the review (Positive or Negative). 
 
@@ -56,7 +56,7 @@ Analyzed the IMDB Reviews Dataset with 50k movie reviews in text format, used tr
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/50436546/204426125-7ad38519-b360-4dc2-b79a-1f48cad65eee.png">
 
-<img width="350" alt="image" src="https://user-images.githubusercontent.com/50436546/204425857-ef517903-21bf-4c04-a1ae-0bce1f37c6f7.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/50436546/204429736-0734bc99-79ec-43ce-8114-51a5bf46b584.png">
 
 
 ## Big Data Architecture, Data Analysis and Visualisation
