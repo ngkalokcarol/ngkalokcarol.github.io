@@ -25,12 +25,7 @@ Supervised Machine Learning with dataset labelled as 'Yes' and 'No' regarding wh
 
 <i> Tools: pandas, numpy, matplotlib, seaborn, sklearn, xgboost</i>
 
-
-
-<img width="620" alt="image" src="https://user-images.githubusercontent.com/50436546/204427074-7f02341e-ba44-4640-a143-97f2b2af25ae.png">
-
-<img width="299" alt="image" src="https://user-images.githubusercontent.com/50436546/204426941-ceb343eb-24fe-4f0b-8e96-5d2370676319.png"><img width="299" alt="image" src="https://user-images.githubusercontent.com/50436546/204427264-4ce6477e-d33e-4a6b-9f18-fedbc39565e5.png">
-
+<img width="430" alt="image" src="https://user-images.githubusercontent.com/50436546/204632743-97d9022c-ec18-44e4-8516-9aec2187c914.png">
 
 
 #### [ Santander Customer Transaction Prediction](https://github.com/ngkalokcarol/santander_customer_transaction_prediction)
