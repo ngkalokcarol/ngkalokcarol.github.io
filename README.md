@@ -6,7 +6,7 @@ Loves all things Data. Let's talk about Data Science.
 # Education
 * Masters of Science (Business Analytics), *University of Minnesota*
 * Bachelors of Arts (Business Enterprise), *University of Birmingham*
-* Bachelors of Science (Computer Science), *Hong Kong Baptist University*
+* Incomplete: Bachelors of Science (Computer Science), *Hong Kong Baptist University (Attended 2 of 3 years)*
 <br>
 
 # Data Science Projects
