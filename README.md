@@ -81,6 +81,9 @@ Image Classification exercise on Kaggle. Used CNN and Transfer Learning to train
 
 <i> Tools: Numpy, Pandas, matplotlib, seaborn, sklearn, tensorflow, keras </i>
 
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/50436546/204427559-5811c464-d345-455e-be99-a9b5a354425c.png">
+
+
 #### [ Shallow or Deep Neural Network](https://github.com/ngkalokcarol/Shallow_VS_Deep_NeuralNetwork)
 
 Train 3 versions of Neural Network, with different numbers of hidden layer (NN with 1 hidden layer, 2 hidden layers and 3 hidden layers), using Mean squared error as objective function and error measurement as evaulation metrics to compare the model with 1, 2 or 3 hidden layers. 
