@@ -34,8 +34,8 @@ Supervised Machine Learning with dataset labelled as Customers Made Transaction 
 
 <i> Tools: pandas, numpy, matplotlib, sklearn, xgboost, tensorflow, lightgbm, spicy, skopt, bayes_opt</i>
 
-<img width="526" alt="image" src="https://user-images.githubusercontent.com/50436546/204638203-ef156d7f-1e07-4442-bf26-82cb3803389d.png">
-<img width="526" alt="image" src="https://user-images.githubusercontent.com/50436546/204638153-9803c96a-39ac-49a0-a20e-bf7282710693.png">
+<img width="433" alt="image" src="https://user-images.githubusercontent.com/50436546/204639514-fc280307-d990-4526-a8f1-3baccc96f8e0.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/50436546/204638153-9803c96a-39ac-49a0-a20e-bf7282710693.png">
 
 
 
