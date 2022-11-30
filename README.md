@@ -61,7 +61,7 @@ Analyzed the IMDB Reviews Dataset with 50k movie reviews in text format, used tr
 
 ## Data Visualisation
 
-#### [ Tech Companies Layoff Tracker](https://public.tableau.com/views/Layofftracker/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+#### [ Tech Companies Layoff Tracker](https://github.com/ngkalokcarol/Layoff-Tracker-Tableau-Dashboard)
 
 I web-scaped Layoff news and extract the data to build a Layoff Tracker to look at the trends and number of layoffs by Tech companies. It is available on Tableau Public: https://public.tableau.com/views/Layofftracker/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
