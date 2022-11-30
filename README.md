@@ -59,7 +59,15 @@ Analyzed the IMDB Reviews Dataset with 50k movie reviews in text format, used tr
 <img width="420" alt="image" src="https://user-images.githubusercontent.com/50436546/204429736-0734bc99-79ec-43ce-8114-51a5bf46b584.png">
 
 
-## Big Data Architecture, Data Analysis and Visualisation
+## Data Visualisation
+
+#### [ Tech Companies Layoff Tracker](https://public.tableau.com/views/Layofftracker/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+I web-scaped Layoff news and extract the data to build a Layoff Tracker to look at the trends and number of layoffs by Tech companies. It is available on Tableau Public: https://public.tableau.com/views/Layofftracker/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+<i> Tools: Python, Tableau </i>
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/50436546/204903000-d7f8ba9b-d618-454e-8eb2-8c21547d00b2.png">
 
 #### [ AWS S3, Redshift, Lambda, SES, Quicksight Dashboard - Iowa Liquor Sales](https://github.com/ngkalokcarol/AWS_S3_Redshift_Lambda_Quicksight_Dashboard_IowaLiquorSales)
 
