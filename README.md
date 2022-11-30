@@ -39,7 +39,7 @@ Supervised Machine Learning with dataset labelled as Customers Made Transaction 
 
 #### [ Logistic Regression for Image classification - Predict Digits](https://github.com/ngkalokcarol/Image-Classification-Predict-Digits)
 
-Predict the Digits in Images Using a Logistic Regression Classifier in Python. Using the digits dataset in the scikit learn library to predict digit values from images using the Logistic Regression model in Python.
+Predict the Digits (Images) Analyzed the Digits Dataset in scikit learn library and prediced the digit values from images with Logistic Regression model in Python.
 
 <i> Tools: numpy, matplotlib, seaborn, sklearn </i>
 
@@ -63,7 +63,7 @@ Analyzed the IMDB Reviews Dataset with 50k movie reviews in text format, used tr
 
 #### [ Tech Companies Layoff Tracker](https://github.com/ngkalokcarol/Layoff-Tracker-Tableau-Dashboard)
 
-I web-scaped Layoff news and extract the data to build a Layoff Tracker to look at the trends and number of layoffs by Tech companies. It is available on Tableau Public: https://public.tableau.com/views/Layofftracker/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+I web-scaped Layoff news and extract the data to build a Layoff Tracker to look at the trends and number of layoffs by Tech companies. It is available on Tableau Public: <a herf ="https://public.tableau.com/views/Layofftracker/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"> https://public.tableau.com/views/Layofftracker/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link </a>
 
 <i> Tools: Python, Tableau </i>
 
