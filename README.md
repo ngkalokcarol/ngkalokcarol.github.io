@@ -71,10 +71,10 @@ Analyzed the IMDB Reviews Dataset with 50k movie reviews in text format, used tr
 
 #### [ Tech Companies Layoff Tracker](https://github.com/ngkalokcarol/Layoff-Tracker-Tableau-Dashboard)
 
-I web-scaped Layoff news and extract the data to build a Layoff Tracker to look at the trends and number of layoffs by Tech companies. It is available on Tableau Public: [https://public.tableau.com/views/Layofftracker/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Layofftracker/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Extracted Layoff data from [Layoffs.fyi](https://layoffs.fyi) and built a Layoff Tracker to observe the trends by Tech companies. It is available on Tableau Public: [https://public.tableau.com/views/Layofftracker/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Layofftracker/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-
-<i> Tools: Python, Tableau </i>
+<i> Tools: Python, Tableau </i> <br>
+<i> Data Source: https://layoffs.fyi </i>
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/50436546/204903000-d7f8ba9b-d618-454e-8eb2-8c21547d00b2.png">
 
