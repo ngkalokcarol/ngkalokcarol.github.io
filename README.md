@@ -15,7 +15,11 @@ Loves all things Data. Let's talk about Data Science.
 
 #### [ Credit Fraud Detection](https://github.com/ngkalokcarol/Credit-Fraud-Detection)
 
-Dealt with Highly Imbalanced Dataset to detect Credit Fraud, applied PCA and Clustering, and tested different models with Normalization, UnderSampling and OverSampling. 
+Dealt with Highly Imbalanced Dataset to detect Credit Fraud, applied PCA and Clustering, and tested different models with Normalization, UnderSampling and OverSampling. <b>UnderSampling and OverSampling achieved 0.92 and 0.98 in overall accuracy score</b>.
+
+<i> Tools: pandas, numpy, matplotlib, sklearn, seaborn, imblearn, SMOTE</i>
+
+<img width="387" alt="image" src="https://user-images.githubusercontent.com/50436546/205800670-257c60c5-d93e-45ed-ba8e-b0934670c573.png">
 
 #### [ Spam Emails Detection](https://github.com/ngkalokcarol/spam_email_detection)
 
