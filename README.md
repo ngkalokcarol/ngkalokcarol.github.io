@@ -13,7 +13,11 @@ Loves all things Data. Let's talk about Data Science.
 
 ## Machine Learning
 
-#### [ Spam Emails detection](https://github.com/ngkalokcarol/spam_email_detection)
+#### [ Credit Fraud Detection](https://github.com/ngkalokcarol/Credit-Fraud-Detection)
+
+Dealt with Highly Imbalanced Dataset to detect Credit Fraud, applied PCA and Clustering, and tested different models with Normalization, UnderSampling and OverSampling. 
+
+#### [ Spam Emails Detection](https://github.com/ngkalokcarol/spam_email_detection)
 
 Supervised Machine Learning with dataset labelled as Spam (Class 1) and Non-Spam (Class 0). Built a classification model to predict and classify emails that are potentially Spam. Best Model achieved a <b> 95% of Presicion and Accuracy</b>. 
 
