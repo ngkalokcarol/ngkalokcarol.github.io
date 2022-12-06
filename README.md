@@ -33,7 +33,7 @@ Supervised Machine Learning with dataset labelled as 'Yes' and 'No' regarding wh
 
 <i> Tools: pandas, numpy, matplotlib, seaborn, sklearn, xgboost</i>
 
-<img width="430" alt="image" src="https://user-images.githubusercontent.com/50436546/204642487-e4a40195-df90-4b8a-9d46-1e72daeb3b03.png">
+<img width="430" alt="image" src="https://user-images.githubusercontent.com/50436546/205804828-dfb447bd-e696-4cdf-8a53-6fadfec041d3.png">
 
 #### [ Santander Customer Transaction Prediction](https://github.com/ngkalokcarol/santander_customer_transaction_prediction)
 
@@ -41,9 +41,7 @@ Supervised Machine Learning with dataset labelled as Customers Made Transaction 
 
 <i> Tools: pandas, numpy, matplotlib, sklearn, xgboost, tensorflow, lightgbm, spicy, skopt, bayes_opt</i>
 
-<img width="420" alt="image" src="https://user-images.githubusercontent.com/50436546/204639652-41c8496d-d006-42b3-bd91-1596cd512c4a.png">
 <img width="420" alt="image" src="https://user-images.githubusercontent.com/50436546/204638153-9803c96a-39ac-49a0-a20e-bf7282710693.png">
-
 
 #### [ Logistic Regression for Image classification - Predict Digits](https://github.com/ngkalokcarol/Image-Classification-Predict-Digits)
 
@@ -52,20 +50,6 @@ Predict the Digits (Images) Analyzed the Digits Dataset in scikit learn library 
 <i> Tools: numpy, matplotlib, seaborn, sklearn </i>
 
 <img width="420" alt="image" src="https://user-images.githubusercontent.com/50436546/204643258-f006fbfb-e6cd-4fc9-b6d0-b5eded591d36.png">
-
-
-## Natural Language Processing
-
-#### [ IMDB Reviews Sentiment - Positive or Negative review?](https://github.com/ngkalokcarol/IMDB-Reviews-Sentiment)
-
-Analyzed the IMDB Reviews Dataset with 50k movie reviews in text format, used transformer for text preprocessing, BERT as Classifier and Tokenizer along with the input modules to classify the sentiment of the review (Positive or Negative). 
-
-<i> Tools: transformers, tensorflow, pandas, shutil </i>
-
-<img width="420" alt="image" src="https://user-images.githubusercontent.com/50436546/204426125-7ad38519-b360-4dc2-b79a-1f48cad65eee.png">
-
-<img width="420" alt="image" src="https://user-images.githubusercontent.com/50436546/204429736-0734bc99-79ec-43ce-8114-51a5bf46b584.png">
-
 
 ## Data Visualisation
 
@@ -87,6 +71,19 @@ Our project seeks to showcase the ease of ingesting big data into S3, creating m
 <img width="480" alt="image" src="https://user-images.githubusercontent.com/50436546/204411694-56d48f6b-912b-419f-8a30-cc3c64872968.png">
 
 <img width="480" alt="image" src="https://user-images.githubusercontent.com/50436546/167037001-8a695d04-699c-40de-9fff-1a26b1d93f9d.gif">
+
+
+## Natural Language Processing
+
+#### [ IMDB Reviews Sentiment - Positive or Negative review?](https://github.com/ngkalokcarol/IMDB-Reviews-Sentiment)
+
+Analyzed the IMDB Reviews Dataset with 50k movie reviews in text format, used transformer for text preprocessing, BERT as Classifier and Tokenizer along with the input modules to classify the sentiment of the review (Positive or Negative). 
+
+<i> Tools: transformers, tensorflow, pandas, shutil </i>
+
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/50436546/204426125-7ad38519-b360-4dc2-b79a-1f48cad65eee.png">
+
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/50436546/204429736-0734bc99-79ec-43ce-8114-51a5bf46b584.png">
 
 ## Deep Learning or Neural Network
 
