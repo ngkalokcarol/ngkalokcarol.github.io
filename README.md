@@ -1,5 +1,5 @@
 # Carol Ng
-Loves all things Data. Let's talk about Data Science.
+Loves all things Data. Let's talk about Data Science. 
 
 *“If you can't measure it, you can't manage it."*
 <br>
